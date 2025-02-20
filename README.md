@@ -1,1 +1,1 @@
-# DNB
+A digital notice board designed to display information, serve as a news teller, and function as a modern advertising platform. This system is developed using PHP, HTML, CSS, and JavaScript to provide an efficient and dynamic way to share updates.
